@@ -9,8 +9,4 @@ intro:
   heading: What I offer
   text: I provide personal and group workshops, yoga & meditation classes. You can
     also commission art with me - I specialise in botanical drawings.
-products: []
-values:
-  heading: Our values
-  text: Slow living
 ---
